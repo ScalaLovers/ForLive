@@ -14,6 +14,8 @@ object Dfs {
 
     dfs(Graphs.graphFromFile("/Users/big-theta/Sources/experiments/ForLive/src/main/resources/graph/dfs/input.txt"), s)
     println(pathTo("3"))
+    println(pathTo("2"))
+    println(pathTo("5"))
 
   }
 
